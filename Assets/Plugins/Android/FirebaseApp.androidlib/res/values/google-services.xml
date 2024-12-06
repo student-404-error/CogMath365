@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://calcgame-fffc9-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">946235212343</string>
+  <string name="google_storage_bucket" translatable="false">calcgame-fffc9.firebasestorage.app</string>
+  <string name="project_id" translatable="false">calcgame-fffc9</string>
+  <string name="google_api_key" translatable="false">AIzaSyDGVkM3kLwda_qjUGpJ2ZvA5e_-jJ4W4c4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGVkM3kLwda_qjUGpJ2ZvA5e_-jJ4W4c4</string>
+  <string name="google_app_id" translatable="false">1:946235212343:android:96a55603502a5b44b7f5b2</string>
+  <string name="default_web_client_id" translatable="false">946235212343-9kebro8m99j79r6h13ouomn48ph98j47.apps.googleusercontent.com</string>
+</resources>

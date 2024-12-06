@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>946235212343-54t6ob99u4mp9i53ef17nr54egc1ira6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.946235212343-54t6ob99u4mp9i53ef17nr54egc1ira6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>946235212343-7gptr9ahnc9evfvpkehsmm1qa08s2se7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZa7vmZyzEFqxK3foPv8pkR64eEaGuVPc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>946235212343</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Hicare.CogMath</string>
+	<key>PROJECT_ID</key>
+	<string>calcgame-fffc9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calcgame-fffc9.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:946235212343:ios:4e788dd9af02db5bb7f5b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://calcgame-fffc9-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
